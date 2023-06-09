@@ -3,6 +3,8 @@
     {
         "banner-img" : "static/banner.jpg",
         "company_name": "Jovian", 
-        "no-position-banner": "static/no-position.png"  
+        "no-position-banner": "static/no-position.png"  ,
+        "nav-logo-img": "static/bootstrap-logo-shadow.png",
+      "para-img": "static/people-working.jpg"
     }
 }
